@@ -1,0 +1,58 @@
+<?xml version="1.0"?>
+<audacityproject projname="49679__ejfortin__Energy_Shield_data" version="1.1.0" audacityversion="1.2.6" sel0="0.0000000000" sel1="0.0000000000" vpos="0" h="0.0000000000" zoom="15.0809442990" rate="44100.000000" >
+	<tags title="" artist="" album="" track="-1" year="" genre="-1" comments="" id3v2="1" />
+	<wavetrack name="49679__ejfortin__Energy_Shield" channel="0" linked="1" offset="0.00000000" rate="44100.000000" gain="1.000000" pan="0.000000" >
+		<sequence maxsamples="262144" sampleformat="262159" numsamples="1660957" >
+			<waveblock start="0" >
+				<pcmaliasblockfile summaryfile='b00000.auf' aliasfile='C:\Users\first\Documents\as3ship\49679__ejfortin__Energy_Shield.wav' aliasstart='0' aliaslen='262144' aliaschannel='0' min='-0.612579' max='0.629059' rms='0.110353'/>
+			</waveblock>
+			<waveblock start="262144" >
+				<pcmaliasblockfile summaryfile='b00002.auf' aliasfile='C:\Users\first\Documents\as3ship\49679__ejfortin__Energy_Shield.wav' aliasstart='262144' aliaslen='262144' aliaschannel='0' min='-0.787781' max='0.625641' rms='0.162896'/>
+			</waveblock>
+			<waveblock start="524288" >
+				<pcmaliasblockfile summaryfile='b00004.auf' aliasfile='C:\Users\first\Documents\as3ship\49679__ejfortin__Energy_Shield.wav' aliasstart='524288' aliaslen='262144' aliaschannel='0' min='-0.891357' max='0.859924' rms='0.155679'/>
+			</waveblock>
+			<waveblock start="786432" >
+				<pcmaliasblockfile summaryfile='b00006.auf' aliasfile='C:\Users\first\Documents\as3ship\49679__ejfortin__Energy_Shield.wav' aliasstart='786432' aliaslen='262144' aliaschannel='0' min='-0.766846' max='0.788513' rms='0.136844'/>
+			</waveblock>
+			<waveblock start="1048576" >
+				<pcmaliasblockfile summaryfile='b00008.auf' aliasfile='C:\Users\first\Documents\as3ship\49679__ejfortin__Energy_Shield.wav' aliasstart='1048576' aliaslen='262144' aliaschannel='0' min='-0.786438' max='0.537140' rms='0.157925'/>
+			</waveblock>
+			<waveblock start="1310720" >
+				<pcmaliasblockfile summaryfile='b00010.auf' aliasfile='C:\Users\first\Documents\as3ship\49679__ejfortin__Energy_Shield.wav' aliasstart='1310720' aliaslen='262144' aliaschannel='0' min='-0.887054' max='0.853210' rms='0.159614'/>
+			</waveblock>
+			<waveblock start="1572864" >
+				<pcmaliasblockfile summaryfile='b00012.auf' aliasfile='C:\Users\first\Documents\as3ship\49679__ejfortin__Energy_Shield.wav' aliasstart='1572864' aliaslen='88093' aliaschannel='0' min='-0.742554' max='0.769318' rms='0.144912'/>
+			</waveblock>
+		</sequence>
+		<envelope numpoints='0'>
+		</envelope>
+	</wavetrack>
+	<wavetrack name="49679__ejfortin__Energy_Shield" channel="1" linked="0" offset="0.00000000" rate="44100.000000" gain="1.000000" pan="0.000000" >
+		<sequence maxsamples="262144" sampleformat="262159" numsamples="1660957" >
+			<waveblock start="0" >
+				<pcmaliasblockfile summaryfile='b00001.auf' aliasfile='C:\Users\first\Documents\as3ship\49679__ejfortin__Energy_Shield.wav' aliasstart='0' aliaslen='262144' aliaschannel='1' min='-0.806366' max='0.751831' rms='0.125578'/>
+			</waveblock>
+			<waveblock start="262144" >
+				<pcmaliasblockfile summaryfile='b00003.auf' aliasfile='C:\Users\first\Documents\as3ship\49679__ejfortin__Energy_Shield.wav' aliasstart='262144' aliaslen='262144' aliaschannel='1' min='-0.797729' max='0.825226' rms='0.186260'/>
+			</waveblock>
+			<waveblock start="524288" >
+				<pcmaliasblockfile summaryfile='b00005.auf' aliasfile='C:\Users\first\Documents\as3ship\49679__ejfortin__Energy_Shield.wav' aliasstart='524288' aliaslen='262144' aliaschannel='1' min='-0.823303' max='0.828125' rms='0.172430'/>
+			</waveblock>
+			<waveblock start="786432" >
+				<pcmaliasblockfile summaryfile='b00007.auf' aliasfile='C:\Users\first\Documents\as3ship\49679__ejfortin__Energy_Shield.wav' aliasstart='786432' aliaslen='262144' aliaschannel='1' min='-0.884460' max='0.814972' rms='0.162539'/>
+			</waveblock>
+			<waveblock start="1048576" >
+				<pcmaliasblockfile summaryfile='b00009.auf' aliasfile='C:\Users\first\Documents\as3ship\49679__ejfortin__Energy_Shield.wav' aliasstart='1048576' aliaslen='262144' aliaschannel='1' min='-0.790863' max='0.706848' rms='0.181873'/>
+			</waveblock>
+			<waveblock start="1310720" >
+				<pcmaliasblockfile summaryfile='b00011.auf' aliasfile='C:\Users\first\Documents\as3ship\49679__ejfortin__Energy_Shield.wav' aliasstart='1310720' aliaslen='262144' aliaschannel='1' min='-0.813965' max='0.752289' rms='0.176688'/>
+			</waveblock>
+			<waveblock start="1572864" >
+				<pcmaliasblockfile summaryfile='b00013.auf' aliasfile='C:\Users\first\Documents\as3ship\49679__ejfortin__Energy_Shield.wav' aliasstart='1572864' aliaslen='88093' aliaschannel='1' min='-0.891174' max='0.826660' rms='0.173348'/>
+			</waveblock>
+		</sequence>
+		<envelope numpoints='0'>
+		</envelope>
+	</wavetrack>
+</audacityproject>
